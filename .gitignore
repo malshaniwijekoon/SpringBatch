@@ -23,7 +23,7 @@
 hs_err_pid*
 replay_pid*
 
-*.DS_Store
-HELP.md
+.DS_Store
+.gitignore
 mvnw
 mvnw.cmd
